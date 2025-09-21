@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.composer/0">
+    <module_version install_time="1739528137529" last="true" origin="installer" specification_version="0.57">
+        <file crc="3668698384" name="config/Modules/org-netbeans-modules-php-composer.xml"/>
+        <file crc="1289140456" name="modules/org-netbeans-modules-php-composer.jar"/>
+    </module_version>
+</module>

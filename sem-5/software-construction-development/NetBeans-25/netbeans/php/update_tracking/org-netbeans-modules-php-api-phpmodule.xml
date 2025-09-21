@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.php.api.phpmodule">
+    <module_version install_time="1739528113487" last="true" origin="installer" specification_version="2.101">
+        <file crc="1410313091" name="config/Modules/org-netbeans-modules-php-api-phpmodule.xml"/>
+        <file crc="996377914" name="modules/org-netbeans-modules-php-api-phpmodule.jar"/>
+    </module_version>
+</module>
